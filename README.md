@@ -2,9 +2,9 @@
 
 Source code for the **dataset generation** and **experimental evaluation** of our paper *A High-Spatial Resolution Dataset and Few-shot Deep Learning Benchmark for Image Classification*.
 
-## Biome Cerrado Dataset (BCD)
+## Biome Cerrado Dataset (CerraData)
 
-The Biome Cerrado Dataset (BCD) was generated using the public available satellite data from [INPE](http://www.dgi.inpe.br/). We firstly obtained 150 scenes made by the *Wide Panchromatic and Multispectral Camera (WPM)* of the CBERS-4A satellite. Each scene was preprocessed with the [merge bands algorithm](data_management/merge_bands.py) in order to merge the near-infrared (NIR), green (G) and blue (B) spectral bands, respectively, to the R, G and B image channels. In sequence, by the use of [QGIS platform](https://qgis.org/pt_BR/site/), pan-sharpening with Hue Saturation Value (HSV) method via panchromatic (PAN) band was also applied to the merged scenes. Then, [cut and filter algorithm](data_management/cut_and_filter_images.py) was applied to the scenes, which crops tiles of 256x256 pixels that preserves geospatial information, and also remove non-data images. At this point, approximatelly 2.5M usable tiles was produced.
+The Biome Cerrado Dataset (CerraData) was generated using the public available satellite data from [INPE](http://www.dgi.inpe.br/). We firstly obtained 150 scenes made by the *Wide Panchromatic and Multispectral Camera (WPM)* of the CBERS-4A satellite. Each scene was preprocessed with the [merge bands algorithm](data_management/merge_bands.py) in order to merge the near-infrared (NIR), green (G) and blue (B) spectral bands, respectively, to the R, G and B image channels. In sequence, by the use of [QGIS platform](https://qgis.org/pt_BR/site/), pan-sharpening with Hue Saturation Value (HSV) method via panchromatic (PAN) band was also applied to the merged scenes. Then, [cut and filter algorithm](data_management/cut_and_filter_images.py) was applied to the scenes, which crops tiles of 256x256 pixels that preserves geospatial information, and also remove non-data images. At this point, approximatelly 2.5M usable tiles was produced.
 
 ![image](classes.jpeg)
 
@@ -65,7 +65,7 @@ We made available all submission [scripts](scripts/) used to run our experiments
     
 `sbatch scripts/run_sbatch_<model>.slurm`
 
-> Do not forget to adjust the **queue** name and update the path of the submission scripts based in your own environment, such as, the absolute path to the (1) repo `/path/for/the/repo/BCD-Code` in the `-B` option, and (2) the path to the container image file `/path/for/the/singularity/file/container.sif`.
+> Do not forget to adjust the **queue** name and update the path of the submission scripts based in your own environment, such as, the absolute path to the (1) repo `/path/for/the/repo/CerraData-code-data` in the `-B` option, and (2) the path to the container image file `/path/for/the/singularity/file/container.sif`.
 
 ## Acknowledgments
 
