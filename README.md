@@ -17,7 +17,7 @@ The final step was, based on [Neves et. al.](https://doi.org/10.1117/1.JRS.15.04
 
 
 
-At this time, only the labeled part of the dataset (50k images) are available to download via this [cloud storage link](https://drive.google.com/drive/folders/1ODKZXJBbH1VrQWAAGMnHdOI-r4t5brBX?usp=sharing). Once we manage to upload the remainder unlabeled part (2.5 million images~800GB) we will gladly update the download link. 
+At this time, only the labeled part of the dataset (50k images) are available to download via this [cloud storage link](https://www.kaggle.com/datasets/cerranet/biome-cerrado-dataset-cerradata). Once we manage to upload the remainder unlabeled part (2.5 million images~800GB) we will gladly update the download link. 
 
 ## Dataset challenge assessment: Evaluation of well-known CNNs
 
