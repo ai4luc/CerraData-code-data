@@ -15,9 +15,8 @@ The final step was, based on [Neves et. al.](https://doi.org/10.1117/1.JRS.15.04
 4. **Savanna Formation:** samples of five different phytophysiognomies, i.e., woodland savanna, typical savanna, rupestrian savanna, shrub savanna, and vereda; and 
 5. **Water:** river, small lakes, dams, and fish farming ponds.
 
-
-
-At this time, only the labeled part of the dataset (50k images) are available to download via this [cloud storage link](https://www.kaggle.com/datasets/cerranet/biome-cerrado-dataset-cerradata). Once we manage to upload the remainder unlabeled part (2.5 million images~800GB) we will gladly update the download link. 
+### Download the dataset
+Currently, the labeled part of the dataset (50k images) is available to download via this [cloud storage link](https://www.kaggle.com/datasets/cerranet/biome-cerrado-dataset-cerradata). We are working to make the remaining unlabeled part of CerraData (approximately 2.5 million images, 800 GB) available as soon as possible. 
 
 ## Dataset challenge assessment: Evaluation of well-known CNNs
 
