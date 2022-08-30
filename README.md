@@ -72,5 +72,5 @@ This research was developed within the [**IDeepS**](https://github.com/vsantjr/I
 
 ## Reference
 
-M. S. Miranda, L. F. A. Silva, S. F. dos Santos, V. A. Santiago J&uacute;nior, T. S. Korting, and J. Almeida Junior. *A High-Spatial Resolution Dataset and Few-shot Deep Learning Benchmark for Image Classification*. Submitted.
+M. S. Miranda, L. F. A. Silva, S. F. dos Santos, V. A. Santiago J&uacute;nior, T. S. Korting, and J. Almeida Junior. *A High-Spatial Resolution Dataset and Few-shot Deep Learning Benchmark for Image Classification*. Accepted for publication.
 
