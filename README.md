@@ -16,7 +16,7 @@ The final step was, based on [Neves et. al.](https://doi.org/10.1117/1.JRS.15.04
 5. **Water:** river, small lakes, dams, and fish farming ponds.
 
 ### Download the dataset
-Currently, the labeled part of the dataset (50k images) is available to download via this [cloud storage link](https://www.kaggle.com/datasets/cerranet/biome-cerrado-dataset-cerradata). We are working to make the remaining unlabeled part of CerraData (approximately 2.5 million images, 800 GB) available as soon as possible. 
+Currently, the labeled part of the dataset (50k images) is available to download via this [cloud storage link](https://www.kaggle.com/datasets/cerranet/biome-cerrado-dataset-cerradata). The full unlabeled dataset is available to download in this [cloud drive](https://inpebr-my.sharepoint.com/:f:/g/personal/mateus_miranda_inpe_br/EhAvFUXWZVlGq_saQc_wPXcB-5x5wwM_9wi4dkhzGMD9pA?e=K1H5bt), which is organized in five folders corresponding to brazilian states. For each folder four images batch was created considering its geoinformation. 
 
 ## Dataset challenge assessment: Evaluation of well-known CNNs
 
