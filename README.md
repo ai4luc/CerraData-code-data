@@ -1,6 +1,6 @@
 # A High-Spatial Resolution Dataset and Few-shot Deep Learning Benchmark for Image Classification: Source Code
 
-Source code for the **dataset generation** and **experimental evaluation** of our paper *[A High-Spatial Resolution Dataset and Few-shot Deep Learning Benchmark for Image Classification](http://sibgrapi.sid.inpe.br/ibi/sid.inpe.br/sibgrapi/2022/09.10.20.10?metadatarepository=sid.inpe.br/sibgrapi/2022/09.10.20.10.21&ibiurl.backgroundlanguage=en&ibiurl.requiredsite=sibgrapi.sid.inpe.br+802&requiredmirror=sid.inpe.br/banon/2001/03.30.15.38.24&searchsite=sibgrapi.sid.inpe.br:80&searchmirror=sid.inpe.br/banon/2001/03.30.15.38.24&searchinputvalue=Miranda&parentidentifiercitedby=6qtX3pFwXQZeBBx/pBvav&forcerecentflag=0)*.
+Source code for the **dataset generation** and **experimental evaluation** of our paper *[A High-Spatial Resolution Dataset and Few-shot Deep Learning Benchmark for Image Classification](10.1109/SIBGRAPI55357.2022.9991746})*.
 
 ## Biome Cerrado Dataset (CerraData)
 
