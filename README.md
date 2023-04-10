@@ -22,7 +22,7 @@ Currently, the labeled part of the dataset (50k images) is available to download
 
 This repo contains the source code used to obtain all the results presented on the paper. Following will be shown (1) how to simply use the code and also (2) how to reproduce our presented results.
 
-### How to use the code
+### Get Start
 
 To simply run the source code, do the following steps:
 
